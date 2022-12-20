@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#MacOS
+.DS_Store
+
+# Midi files for this project
+/data/midi_with_genres/**/*.mid
